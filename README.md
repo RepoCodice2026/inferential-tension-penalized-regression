@@ -5,8 +5,7 @@ R implementation of the inferential tension framework for joint  hyperparameter 
 This repository contains the complete R implementation of the inferential
 tension framework proposed in:
 
-> Plaza Maldonado, R. & Olivares, R. (under review). Optimization of
-> regularization under inferential tension: a bio-inspired approach for
+> Optimization of regularization under inferential tension: a bio-inspired approach for
 > stable estimation in penalized regression models.
 > *Knowledge-Based Systems*.
 
